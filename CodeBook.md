@@ -21,13 +21,13 @@ The script run_analysis.R performs the 5 steps described in the course project's
 •	Finally, we generate a new dataset with all the average measures for each subject and activity type. The output
   file is called tidydataset.txt, and uploaded to this repository.
 
-##__Identifiers
+##Identifiers
 
 subject - The ID of the test subject.
 
 activity - The type of activity performed when the corresponding measurements were taken.
 
-##__Variables
+##Variables
 
 •	x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
 
