@@ -100,20 +100,3 @@ secTidySet <- secTidySet[order(secTidySet$subjectId, secTidySet$activityId),]
   # writing second tidy data set in txt file
 
 write.table(secTidySet, "secTidySet.txt", row.name=FALSE)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
